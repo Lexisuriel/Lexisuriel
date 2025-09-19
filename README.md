@@ -86,7 +86,7 @@
 <p align="center">
   <a href="https://github.com/Lexisuriel"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/lexis-uriel-leyva-75836a292"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:lexisuriel@gmail.com"><img src="https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:lexisurielleyva@gmail.com"><img src="https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
