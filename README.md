@@ -1,7 +1,7 @@
 # Welcome, I'm Lexis Uriel 👋
 
 ## 👨‍💻 About Me
-- 💻 Apasionado por la **ciberseguridad** y el **desarrollo de software**.  
+- 💻 Apasionado por la **ciberseguridad** el **desarrollo de software** y la **Robotica - Mecatronica**.  
 - 🌱 Siempre aprendiendo y buscando mejorar cada día.  
 - 🚀 Me gusta crear proyectos innovadores y colaborar en equipo.  
 - ⚡ Fan de la tecnología y la automatización.  
