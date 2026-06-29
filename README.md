@@ -1,7 +1,9 @@
 # Welcome, I'm Lexis Uriel 👋
 
 ## 👨‍💻 About Me
-- 💻 Apasionado por el desarrollo de software y la creación de soluciones prácticas. A lo largo de mi experiencia laboral he participado en múltiples proyectos, desarrollando el backend, el frontend y las interfaces para clientes y administradores con Java, Spring Framework, Spring boot, API Restful, Microservicios, Persistencia usando Hibernate y JPA, Docker, Kubernetes, AWS, Oracle, MongoDB, MariaDB, TypeScript, PHP, JavaScript, entre otras tecnologías como JWT, Git, JWT, Junit, Jenkins, SonarQube. También he utilizado React, Angular y Vite, y cuento con conocimientos de Next.js y Node.js. 
+- 💻 Apasionado por el desarrollo de software y la creación de soluciones prácticas.
+-  A lo largo de mi experiencia laboral he participado en múltiples proyectos, desarrollando el backend, el frontend y las interfaces para clientes y administradores con Java, Spring Framework, Spring boot, API Restful, Microservicios, Persistencia usando Hibernate y JPA, Docker, Kubernetes, AWS, Oracle, MongoDB, MariaDB, TypeScript, PHP, JavaScript, entre otras tecnologías como JWT, Git, JWT, Junit, Jenkins, SonarQube.
+-  También he utilizado React, Angular y Vite, y cuento con conocimientos de Next.js y Node.js. 
 Me interesa crear aplicaciones y sistemas accesibles, optimizados, escalables y fáciles de mantener, además de aprender nuevas tecnologías y compartir conocimientos con la comunidad.
 ---
 
